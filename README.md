@@ -60,7 +60,7 @@ This slide helps users quickly understand **overall IPL trends and performance p
 
 ### 🟠 Slide 2: Batter Performance Analysis  
 
-![Dashboard teams profile](https://github.com/tanya-saini/IPL_Dashboard/blob/main/dashboard%20teamprofile.png)
+![Dashboard teams profile](https://github.com/tanya-saini/IPL_Dashboard/blob/main/team%20profile.png)
 
 This slide focuses on **player-wise batting performance** across seasons.
 
