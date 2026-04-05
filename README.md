@@ -1,7 +1,7 @@
 # IPL Dashboard
 
 ## 📌 Project Overview  
-This project presents an **IPL (Indian Premier League) Data Analysis Dashboard** built to analyze **season-wise and player-wise performance** of teams, batters, and bowlers. The dashboard provides interactive visualizations that help uncover patterns, trends, and key insights from IPL match data across multiple seasons.
+This project presents an **IPL (Indian Premier League) Dashboard** built to analyze **season-wise and player-wise performance** of teams, batters, and bowlers. The dashboard provides interactive visualizations that help uncover patterns, trends, and key insights from IPL match data across multiple seasons.
 
 The goal of this project is to **transform raw cricket data into meaningful insights** that support performance evaluation, strategy planning, and decision-making.
 
