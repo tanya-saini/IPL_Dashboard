@@ -41,6 +41,7 @@ Link : https://www.kaggle.com/datasets/rajsengo/indian-premier-league-ipl-all-se
 ## 📊 Dashboard Structure (Slide-wise Explanation)
 
 ### 🟡 Slide 1: Overview Dashboard  
+
 ![Dashboard overview](https://github.com/tanya-saini/IPL_Dashboard/blob/main/dashboard%20overview.png)
 
 This slide provides a **high-level summary** of IPL performance across seasons.
@@ -59,6 +60,8 @@ This slide helps users quickly understand **overall IPL trends and performance p
 
 ### 🟠 Slide 2: Batter Performance Analysis  
 
+![Dashboard teams profile](https://github.com/tanya-saini/IPL_Dashboard/blob/main/dashboard%20teamprofile.png)
+
 This slide focuses on **player-wise batting performance** across seasons.
 
 #### Key Visuals:
@@ -76,6 +79,8 @@ This slide helps identify:
 ---
 
 ### 🔵 Slide 3: Bowler Performance Analysis  
+
+![Dashboard player's profile](https://github.com/tanya-saini/IPL_Dashboard/blob/main/dashboard%20player'sprofile.png)
 
 This slide highlights **bowler performance metrics**.
 
