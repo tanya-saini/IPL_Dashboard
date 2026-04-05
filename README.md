@@ -42,7 +42,7 @@ Link : https://www.kaggle.com/datasets/rajsengo/indian-premier-league-ipl-all-se
 
 ### 🟡 Slide 1: Overview Dashboard  
 
-![Dashboard overview](https://github.com/tanya-saini/IPL_Dashboard/blob/main/dashboard%20overview.png)
+![Dashboard overview](https://github.com/tanya-saini/IPL_Dashboard/blob/main/overview.png)
 
 This slide provides a **high-level summary** of IPL performance across seasons.
 
