@@ -80,7 +80,7 @@ This slide helps identify:
 
 ### 🔵 Slide 3: Bowler Performance Analysis  
 
-![Dashboard player's profile](github.com/tanya-saini/IPL_Dashboard/blob/main/player's%20profile.png)
+![Dashboard player's profile](https://github.com/tanya-saini/IPL_Dashboard/blob/main/player's%20profile.png)
 
 This slide highlights **bowler performance metrics**.
 
