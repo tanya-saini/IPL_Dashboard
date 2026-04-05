@@ -33,6 +33,10 @@ The primary objectives of this dashboard are:
 - **DAX (Data Analysis Expressions)** — Creating calculated measures and KPIs  
 
 ---
+## Dataset Used 
+Link : https://www.kaggle.com/datasets/rajsengo/indian-premier-league-ipl-all-seasons
+
+---
 
 ## 📊 Dashboard Structure (Slide-wise Explanation)
 
